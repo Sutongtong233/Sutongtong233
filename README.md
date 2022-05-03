@@ -48,7 +48,7 @@ I am an undergraduate student of artificial intelligence🧑‍💻, Computer Sc
 ### Detecting influential nodes via GNN:  
 My recent works focus on post-hoc explanation of Graph Neural Networks, specifically, selecting those influential nodes after model training via perturbation-based analysis.   
   
-
+![](https://Sutongtong233.github.io/static/app_sale.png)  
 
 
 ### Online recommendation system via active search:  

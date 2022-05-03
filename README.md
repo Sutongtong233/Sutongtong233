@@ -53,7 +53,8 @@ My recent works focus on post-hoc explanation of Graph Neural Networks, specific
 
 ### Online recommendation system via active search:  
 Most of the recommendation systems face the cold-start problem, namely, lack of interaction records for new items or users and requires a high computational cost for retraining. My recent work focus on online recommendation algorithm through active search of new user preference.  
-  
+
+![](https://Sutongtong233.github.io/static/easilp.png)   
 
 <br/>  
 

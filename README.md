@@ -48,12 +48,15 @@ I am an undergraduate student of artificial intelligence🧑‍💻, Computer Sc
 ### Detecting influential nodes via GNN:  
 My recent works focus on post-hoc explanation of Graph Neural Networks, specifically, selecting those influential nodes after model training via perturbation-based analysis. The main contributions are:
 - **Model**: Provide a perturbation framework for global understanding graph data leveraging power of GNNs, which consider attribute and topological information simultaneously. 
-  
+- **Algorithm**: Approximately solve the high computational combinatorial optimization problem by converting the discrete constraint into regularizer, then the unconstrained convex optimization problem can be solved efficiently. It is guaranteed that the solution can be recovered back to origin discrete space.
+- **Experiment**: Experiments on both synthetic and real world dataset demonstrate our advantages over baselines. The evaluation includes two aspects: model and human, with qualitative and quantitative metrics.
 ![](https://Sutongtong233.github.io/static/app_sale.png)  
 
 
 ### Online recommendation system via active search:  
-Most of the recommendation systems face the cold-start problem, namely, lack of interaction records for new items or users and requires a high computational cost for retraining. My recent work focus on online recommendation algorithm through active search of new user preference.  
+Most of the recommendation systems face the cold-start problem, namely, lack of interaction records for new items or users and requires a high computational cost for retraining. My recent work focus on online recommendation algorithm through active search of new user preference. The main contributions are:
+- **Algorithm**: We design a linear programming model to efficiently search the user reference point with preference pairs. There is efficiency advantage over previous probabilistic methods, from $600$ to $7500$.
+- **Active search module**: I design this module, which aims to select more informative pair in each round. Ablation studies verify the effectiveness of this module: with the same number of questions, introducing this module can improve the recommendation quality. 
 
 ![](https://Sutongtong233.github.io/static/easilp.png)   
 

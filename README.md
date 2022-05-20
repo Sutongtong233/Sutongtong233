@@ -39,9 +39,8 @@ My recent works focus on post-hoc explanation of Graph Neural Networks, specific
 - **Model**: Provide a perturbation framework for global understanding graph data leveraging power of GNNs, which consider attribute and topological information simultaneously. 
 - **Algorithm**: Approximately solve the high computational combinatorial optimization problem by converting the discrete constraint into regularizer, then the unconstrained convex optimization problem can be solved efficiently. It is guaranteed that the solution can be recovered back to origin discrete space.
 - **Experiment**: Experiments on both synthetic and real world dataset demonstrate our advantages over baselines. The evaluation includes two aspects: model and human, with qualitative and quantitative metrics.
-![](https://Sutongtong233.github.io/static/app_sale.png)  
-<!-- ![](https://Sutongtong233.github.io/static/cora.png)  
- -->
+<!-- ![](https://Sutongtong233.github.io/static/app_sale.png)   -->
+<!-- ![](https://Sutongtong233.github.io/static/cora.png)  -->
 
 ### Online recommendation system via active search:  
 Most of the recommendation systems face the cold-start problem, namely, lack of interaction records for new items or users and requires a high computational cost for retraining. My recent work focus on online recommendation algorithm through active search of new user preference. The main contributions are:

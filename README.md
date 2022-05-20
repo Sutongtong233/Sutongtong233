@@ -47,7 +47,7 @@ Most of the recommendation systems face the cold-start problem, namely, lack of 
 - **Algorithm**: We design a linear programming model to efficiently search the user reference point with preference pairs. There is efficiency advantage over previous probabilistic methods, from $600$ to $7500$.
 - **Active search module**: I design this module, which aims to select more informative pair in each round. Ablation studies verify the effectiveness of this module: with the same number of questions, introducing this module can improve the recommendation quality. 
 
-![](https://Sutongtong233.github.io/static/easilp.png)   
+<!-- ![](https://Sutongtong233.github.io/static/easilp.png)    -->
 
 <br/>  
 

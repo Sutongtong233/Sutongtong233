@@ -2,7 +2,7 @@
 
 ### Sutongtong's Profile  
 I am an undergraduate student of artificial intelligence🧑‍💻, Computer Science at Southeast University, Nanjing, China. I joined Beilun Wang's lab during my first college year summer vacation and started to do research.  
-  
+知乎链接：https://www.zhihu.com/people/su-tong-tong-2
 
 <br/>  
 

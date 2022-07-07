@@ -35,10 +35,12 @@ I am an undergraduate student of artificial intelligence🧑‍💻, Computer Sc
 
 
 ### Detecting influential nodes via GNN:  
+*One paper is accepted by ICML 2022 workshop*
 My recent works focus on post-hoc explanation of Graph Neural Networks, specifically, selecting those influential nodes after model training via perturbation-based analysis. The main contributions are:
 - **Model**: Provide a perturbation framework for global understanding graph data leveraging power of GNNs, which consider attribute and topological information simultaneously. 
 - **Algorithm**: Approximately solve the high computational combinatorial optimization problem by converting the discrete constraint into regularizer, then the unconstrained convex optimization problem can be solved efficiently. It is guaranteed that the solution can be recovered back to origin discrete space.
 - **Experiment**: Experiments on both synthetic and real world dataset demonstrate our advantages over baselines. The evaluation includes two aspects: model and human, with qualitative and quantitative metrics.
+
 <!-- ![](https://Sutongtong233.github.io/static/app_sale.png)   -->
 <!-- ![](https://Sutongtong233.github.io/static/cora.png)  -->
 

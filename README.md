@@ -72,15 +72,7 @@ Most of the recommendation systems face the cold-start problem, namely, lack of 
 
 
 <br />
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Sutongtong233" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/Tongtong Su" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
   
 
 <br/>  
